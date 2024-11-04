@@ -11,7 +11,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "A React component for form error handling using Chrome's Built-in AI to generate helpful messages for form errors.",
   "dependencies": {
     "@types/dompurify": "^3.0.5",
     "@types/marked": "^6.0.0",
