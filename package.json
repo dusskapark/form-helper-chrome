@@ -1,6 +1,7 @@
 {
   "name": "form-helper-chrome",
-  "version": "1.0.1",
+  "version": "1.0.2",
+  "description": "A React component for form error handling using Chrome's Built-in AI to generate helpful messages for form errors.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
@@ -8,10 +9,13 @@
     "prepublishOnly": "npm run build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["react", "form", "error-handling", "AI", "chrome"],
   "author": "",
   "license": "ISC",
-  "description": "A React component for form error handling using Chrome's Built-in AI to generate helpful messages for form errors.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dusskapark/form-helper-chrome"
+  },
   "dependencies": {
     "@types/dompurify": "^3.0.5",
     "@types/marked": "^6.0.0",
