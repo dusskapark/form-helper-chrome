@@ -48,6 +48,8 @@ const App = () => {
 export default App;
 ```
 
+![demo](https://github.com/dusskapark/form-helper-chrome-playground/raw/master/demo.gif)
+
 
 ## Custom Prompt
 

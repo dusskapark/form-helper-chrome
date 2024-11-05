@@ -47,7 +47,7 @@ const Card = styled.div<{ $isDarkMode?: boolean }>`
   border: 1px solid ${props => props.$isDarkMode ? '#333' : '#e8e8e8'};
   border-radius: 8px;
   height: 100%;
-  background-color: ${props => props.$isDarkMode ? '#2a2a2a' : '#f5f5f5'};
+  background-color: ${props => props.$isDarkMode ? '#2a2a2a' : '#ffffff'};
   color: ${props => props.$isDarkMode ? '#ffffff' : '#000000'};
 `;
 
