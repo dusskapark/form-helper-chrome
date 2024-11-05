@@ -1,6 +1,6 @@
 {
   "name": "form-helper-chrome",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A React component for form error handling using Chrome's Built-in AI to generate helpful messages for form errors.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
